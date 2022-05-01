@@ -7,6 +7,7 @@ import javascript from "./javascript.png";
 import react from "./react.png";
 import scene from "./scene.png";
 import mockup from "./mockup.png";
+import logoapp from "./logoapp.png";
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {
@@ -19,4 +20,5 @@ export default {
   react,
   scene,
   mockup,
+  logoapp,
 };
